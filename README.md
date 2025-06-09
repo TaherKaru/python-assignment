@@ -17,3 +17,9 @@ This is a simple python program which take input from the user and calculates th
 
 #assignment 3 task 2 :
 This is simple python program which take input from the user and calculates square root,logarithm and cosine.
+
+#assignment 5 task 1 :
+this is a simple python program that takes inout from user and display the result if the result if false it give an message.
+
+#assignment 5 task 2 :
+this code covers concept regarding list slicing 
